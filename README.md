@@ -358,9 +358,6 @@ g++ *.cpp -o dsa
 
 ## 📸 Output Screenshots
 
-Add screenshots of:
-## 📸 Output Screenshots
-
 ### Main Menu
 
 <img width="558" alt="Main Menu" src="https://github.com/user-attachments/assets/7d7dbccb-bb8b-4b43-b1cb-0f4c374039d8" />
